@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Belteshazzar</span></h1>
-<h3 align="center">💻 Computer Engineer | Full-Stack & Embedded Developer | Tech Explorer</h3>
+<h3 align="center">💻 Computer Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dGreatNoob&label=Profile%20views&color=0e75b6&style=flat" alt="dGreatNoob" />
