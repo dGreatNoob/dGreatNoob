@@ -1,93 +1,77 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Belteshazzar</span></h1>
-<h3 align="center">💻 Computer Engineer</h3>
+<h1 align="center">Belteshazzar Marquez</h1>
+<h3 align="center">Full-Stack Developer · AI SaaS · Next.js · LangGraph · Supabase</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dGreatNoob&label=Profile%20views&color=0e75b6&style=flat" alt="dGreatNoob" />
-  <img src="https://img.shields.io/github/followers/dGreatNoob?label=Followers&style=flat&color=brightgreen" alt="followers" />
-  <img src="https://img.shields.io/github/stars/dGreatNoob?label=Stars&style=flat&color=yellow" alt="stars" />
+  <a href="https://www.linkedin.com/in/belteshazzar-marquez-733771340/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mbelteshazzar.bm.1247@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dGreatNoob&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧭 About Me
-- ⚙️ Passionate about **Web, Embedded Systems, and Automation**
-- 🌐 Building with **Next.js, Laravel, and TypeScript**
-- 🧩 Exploring **IoT, Analytics, and Scalable Architectures**
-- 🎯 Always striving for clean, maintainable, and smart code
-- 📝 Writing at [Code Dex](https://yourbloglink.com) *(coming soon!)*
+### About
+
+I build **AI-powered SaaS** end-to-end — from LangGraph agent loops and RAG pipelines down to the Postgres schema and the operator UI.
+Based in Manila · Open to remote roles and serious freelance engagements.
+
+- **Currently:** running **Aya**, a multi-tenant AI receptionist live with paying clients (Next.js + Supabase + LangGraph).
+- **Stack:** TypeScript, Next.js 16, Supabase (Postgres + RLS + pgvector), LangGraph, OpenRouter, Tailwind, Vercel.
+- **Also:** Laravel/Livewire backends, multi-tenant ERP & inventory work, MCP servers.
+- **Open to:** Mid-level full-stack and AI/automations roles. Talk to me.
 
 ---
 
-### 🌐 Socials:
-<p align="left">
-  <a href="https://linkedin.com/in/belteshazzar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:beltesheyzel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Featured
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Aya — AI Receptionist](https://github.com/dGreatNoob/aya-showcase)** *(case study)* | Multi-tenant AI receptionist platform live at 4 clinics, 50+ leads captured. Deterministic LangGraph agent loop, RAG over pgvector, HMAC-signed booking, streaming SSE chat. | Next.js 16 · LangGraph · Supabase · OpenRouter |
+| **[micro-analytics](https://github.com/dGreatNoob/micro-analytics)** | Lightweight analytics SaaS for indie devs and small businesses. | TypeScript · Next.js |
+| **[simple-pos](https://github.com/dGreatNoob/simple-pos)** | Offline-first point-of-sale designed for small/medium retail stores. | Laravel · Next.js |
+| **[physics-engine](https://github.com/dGreatNoob/physics-engine)** | A from-scratch 2D physics engine — for fun, and to see if I could. | JavaScript |
 
 ---
 
-### 💻 Tech Stack:
+### Stack
+
 <p align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-000000?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics:
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dGreatNoob&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dGreatNoob&theme=tokyonight&hide_border=true" />
-</p>
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dGreatNoob&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dGreatNoob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=dGreatNoob&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🏆 Contributions & Activity
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dGreatNoob&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dGreatNoob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-### 💰 Support Me
-If you find my projects helpful, consider supporting my work 💙  
-<p>
-  <a href="https://paypal.me/yourlink">
-    <img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white" />
-  </a>
-</p>
-
----
-
-> 🧩 *"Building things that make people say — wait, that’s possible?"*
+<p align="center"><i>Building things that make people say — wait, that’s possible?</i></p>
