@@ -2,10 +2,13 @@
 <h3 align="center">Full-Stack Developer · AI SaaS · Next.js · LangGraph · Supabase</h3>
 
 <p align="center">
+  <a href="https://biiieem.dev">
+    <img src="https://img.shields.io/badge/Portfolio-biiieem.dev-10b981?logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/belteshazzar-marquez-733771340/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mbelteshazzar.bm.1247@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mbelteshazzar.bm.1247@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=dGreatNoob&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,7 +19,7 @@
 ### About
 
 I build **AI-powered SaaS** end-to-end — from LangGraph agent loops and RAG pipelines down to the Postgres schema and the operator UI.
-Based in Manila · Open to remote roles and serious freelance engagements.
+Based in Manila, Philippines · Open to remote roles and serious freelance engagements.
 
 - **Currently:** running **Aya**, a multi-tenant AI receptionist live with paying clients (Next.js + Supabase + LangGraph).
 - **Stack:** TypeScript, Next.js 16, Supabase (Postgres + RLS + pgvector), LangGraph, OpenRouter, Tailwind, Vercel.
@@ -30,8 +33,8 @@ Based in Manila · Open to remote roles and serious freelance engagements.
 | Project | What it is | Stack |
 |---|---|---|
 | **[Aya — AI Receptionist](https://github.com/dGreatNoob/aya-showcase)** *(case study)* | Multi-tenant AI receptionist platform live at 4 clinics, 50+ leads captured. Deterministic LangGraph agent loop, RAG over pgvector, HMAC-signed booking, streaming SSE chat. | Next.js 16 · LangGraph · Supabase · OpenRouter |
-| **[micro-analytics](https://github.com/dGreatNoob/micro-analytics)** | Lightweight analytics SaaS for indie devs and small businesses. | TypeScript · Next.js |
-| **[simple-pos](https://github.com/dGreatNoob/simple-pos)** | Offline-first point-of-sale designed for small/medium retail stores. | Laravel · Next.js |
+| **[langgraph-rag-starter](https://github.com/dGreatNoob/langgraph-rag-starter)** | Minimal LangGraph.js RAG agent — `retrieve → grade → generate \| refuse`. Zero embeddings required, runs in 30 seconds with no API key. | LangGraph.js · TypeScript · Node 20 |
+| **[simple-pos](https://github.com/dGreatNoob/simple-pos)** | Offline-first point-of-sale designed for small/medium retail stores. | SvelteKit · Dexie · Laravel |
 | **[physics-engine](https://github.com/dGreatNoob/physics-engine)** | A from-scratch 2D physics engine — for fun, and to see if I could. | JavaScript |
 
 ---
@@ -74,4 +77,4 @@ Based in Manila · Open to remote roles and serious freelance engagements.
 
 ---
 
-<p align="center"><i>Building things that make people say — wait, that’s possible?</i></p>
+<p align="center"><i>Building things that make people say — wait, that's possible?</i></p>
