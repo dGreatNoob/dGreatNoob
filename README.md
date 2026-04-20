@@ -68,7 +68,7 @@ Based in Manila, Philippines · Open to remote roles and serious freelance engag
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dGreatNoob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=dGreatNoob&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=dGreatNoob&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
